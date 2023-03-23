@@ -1,0 +1,63 @@
+﻿body {
+    background-color: rgb(238, 231, 231);
+    text-align: center;
+}
+
+div {
+    background-color: rgb(202, 243, 245);
+}
+
+h1 {
+    font-size: 70px;
+    color: rgb(111, 111, 235);
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 1px solid;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+button {
+    background-color: #f3ceeb;
+    cursor: pointer;
+    transition-duration: 0,9s;
+    color: red;
+    font-size: 40px;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.button1:hover {
+    background-color: aliceblue;
+    color: black;
+    border: 2px solid red;
+    transition-duration: 0.8s;
+}
+
+li {
+    font-size: 30px;
+}
+
+ol {
+    color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+
+img {
+    width: 250px;
+    border-radius: 20px;
+}
+
+#borderimg1 {
+    border: 10px solid violet;
+}
+
+
+footer {
+    font-size: 25px;
+    background-color: rgb(238, 231, 231);
+    text-align: center;
+}
